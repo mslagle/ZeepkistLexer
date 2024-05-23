@@ -1,0 +1,3 @@
+- Added death types: Scary
+- Added ability to add custom death scenes
+- Added random selection
